@@ -5,4 +5,4 @@ Github cannot support view visualization graph of Plotly, you can view the full 
 
 https://nbviewer.jupyter.org/github/jesseyichenfeng/SR-Clustering/blob/master/Support%20and%20Resistant%20Level%20.ipynb
 
-(https://github.com/jesseyichenfeng/SR-Clustering/blob/master/S-R.JPG)
+![alt text](https://github.com/jesseyichenfeng/SR-Clustering/blob/master/S-R.JPG)
